@@ -1,0 +1,5 @@
+{
+  "name": "ClawNest",
+  "description": "Managed hosting platform for OpenClaw AI assistants with BYOK support and EU data residency.",
+  "requestFramePermissions": []
+}
